@@ -161,3 +161,4 @@ console.log(selectionSort());
 // ? Insertion Sort
 
 // ? Merge Sort
+function mergeSort() {}
